@@ -20,7 +20,8 @@ NEW_SUB_URL = 'https://arxiv.org/list/cs/new'
 KEYWORD_LIST = [
     "Super-Resolution", "SISR", 
     "Video Anomaly Detection", "VAD", "Abnormal Event",
-    "Token Compression", "Token Pruning", "Token Merging", "Efficient Transformer"
+    "Token Compression", "Token Pruning", "Token Merging", "Efficient Transformer",
+    "Multimodal Large Language Models"
 ]
 
 OPENAI_API_KEYS = [os.environ.get('DS_KEY'), ] 
